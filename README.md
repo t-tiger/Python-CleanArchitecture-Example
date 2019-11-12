@@ -1,4 +1,4 @@
-# Python Architecture Example
+# Python Clean Architecture Example
 
 This project is a sample Python web application adapting Clean Architecture. By using typing module, development experience similar to static type language is achieved.
 
