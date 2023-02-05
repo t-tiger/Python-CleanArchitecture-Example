@@ -11,7 +11,7 @@ Also in `tests` directory, there are some test samples with partial mock. If you
 # How to run
 
 ```bash
-$ pip install -r requirements/requirements
+$ pip install -r requirements/requirements.txt
 $ python -m flask run
 ```
 
